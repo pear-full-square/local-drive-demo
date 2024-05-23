@@ -13,7 +13,7 @@ It makes it easy to work with files on the local filesystem that streamline impo
 This example illustrates the basic operations of __localdrive__.  
 See the code in _index.js_ for details.
 
-To run a Pear app from code, execute the command below, assuming the working folder is set to the project folder.
+To run this Pear app from code, execute the command below, assuming the working folder is set to the project folder.
 ```bash
 pear run dev .
 ```
