@@ -3,7 +3,7 @@
 Leg 1 of the journey, the localdrive example revisited.
 The original example is here: https://docs.pears.com/helpers/localdrive.
 
-At the core of the __Pear__ platform is the brilliance of how it deals with data across the swarm, and on the local filesystem.  
+At the core of __Pear__ is the brilliance of how it deals with data across the swarm, and on the local filesystem.  
 __Pear__ implements __Hyperdrive__, a secure real-time distributed file system designed for easy P2P file sharing.  
 It features a simple API that instead of mirroring POSIX APIs, captures better the core requirements of P2P file transfer.
 
