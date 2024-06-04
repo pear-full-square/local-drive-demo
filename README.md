@@ -1,6 +1,6 @@
 # localdrive-demo
 
-Leg 1 of the journey, the localdrive example revisited.
+The pear localdrive example revisited.
 The original example is here: https://docs.pears.com/helpers/localdrive.
 
 At the core of __Pear__ is the brilliance of how it deals with data across the swarm, and on the local filesystem.  
